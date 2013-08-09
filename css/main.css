@@ -572,3 +572,31 @@ color:#29a197
 .solarized .comment {
 color:#586e75
 }
+
+#description p {
+line-height:125%;
+text-align:left;
+margin-bottom:10px;
+margin-top:10px
+}
+
+#description h2 {
+text-align:left;
+margin:.8em 0;
+font-size:150%
+}
+
+#description pre {
+margin-left:2em
+}
+
+#description ul {
+line-height:125%;
+list-style-type:disc;
+margin-left:1em;
+margin-bottom:1em
+}
+
+#description li {
+margin-left:1em
+}
