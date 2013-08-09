@@ -1,84 +1,12 @@
-<!doctype html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
-<head>
-    <meta charset="utf-8">
-    <title>PhantomJS: Names of Releases</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="screen.min.css">
-    <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-21665893-1']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-    </script>
-<style>
-#description p {
-    line-height: 125%;
-    text-align: left;
-    margin-bottom: 10px;
-    margin-top: 10px;
-}
+---
+layout: default
+title: Release Names
+categories: root
+permalink: release-names.html
+---
 
-#description h2 {
-    text-align: left;
-    margin: 0.8em 0;
-    font-size: 150%;
-}
 
-#description img {
-    margin: 20px;
-    border: 1px solid #888;
-}
-
-#description p.credit {
-    text-align: right;
-    font-size: 80%;
-    font-style: italic;
-    margin-bottom: 30px;
-}
-
-#description blockquote {
-    margin-left: 2em;
-    line-height: 125%;
-}
-</style>
-</head>
-
-<body>
-<div id="intro">
-    <div id="header" class="container_12">
-        <a href="index.html" class="grid_4 alpha"><img src="images/phantomjs-logo.png" alt="PhantomJS" id="logo" width="240" height="80"></a>
-        <ul id="nav" class="grid_8 omega">
-            <li><a href="https://github.com/ariya/phantomjs">Source Code</a></li>
-            <li><a href="https://github.com/ariya/phantomjs/wiki">Documentation</a></li>
-            <li><a href="https://github.com/ariya/phantomjs/wiki/API-Reference">API</a></li>
-            <li><a href="https://github.com/ariya/phantomjs/wiki/Examples">Examples</a></li>
-            <li><a href="faq.html">FAQ</a></li>
-        </ul>
-    </div>
-
-    <div id="introduction" class="container_12">
-        <div class="grid_7 alpha">
-            <h1>Story Behind the Names</h1>
-        </div>
-    </div>
-</div>
-
-<div id="description" class="container_12">
-
-    <div class="grid_10">
-
-        <h2>PhantomJS 1.9 "Sakura"</h2>
+<h2>PhantomJS 1.9 "Sakura"</h2>
 
 <p><img src="http://farm6.static.flickr.com/5030/5607810834_3220056f56_m.jpg" align="right"></p>
 
@@ -94,7 +22,7 @@ reader), hence why 1.9 is called "Sakura".
 
 <br clear="all"/>
 
-        <h2>PhantomJS 1.8 "Blue Winter Rose"</h2>
+<h2>PhantomJS 1.8 "Blue Winter Rose"</h2>
 
 <p><a href="http://awoiaf.westeros.org/index.php/File:Blue_Roses1.jpg"><img src="http://awoiaf.westeros.org/images/8/83/Blue_Roses1.jpg" width="225" align="right"></a></p>
 <p>The <b>Blue Winter Rose</b> is a flower that grows in the glass gardens of Winterfell.
@@ -117,7 +45,7 @@ It's pale blue the color of frost. Also, it's connected to the legend of <b>Bael
 <br clear="all"/>
 <p class ="credit">Photo by christopher goodband <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</p>
 
-        <h2>PhantomJS 1.7 "Blazing Star"</h2>
+<h2>PhantomJS 1.7 "Blazing Star"</h2>
 
 <p><a href="http://commons.wikimedia.org/wiki/File:Liatris_spicata_close-up.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Liatris_spicata_close-up.jpg/220px-Liatris_spicata_close-up.jpg" align="right"></a></p>
 
@@ -253,17 +181,3 @@ Blossom" since there are apparently lots of PhantomJS fans in Japan
 (search for PhantomJS in Twitter) and with the recent difficult time
 they have, paying homage to them is the least we can do."
 </blockquote>
-
-
-    </div>
-</div>
-
-<div id="footer">
-    <div id="footer-content" class="container_12">
-        <p>
-            &copy; Copyright 2010-2013 <a href="http://twitter.com/AriyaHidayat">Ariya Hidayat</a> &mdash; Website design by <a href="http://svay.com/">Maurice Svay</a>
-        </p>
-    </div>
-</div>
-</body>
-</html>
