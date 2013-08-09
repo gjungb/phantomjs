@@ -1,0 +1,3 @@
+name: PhantomJS
+markdown: redcarpet
+pygments: true

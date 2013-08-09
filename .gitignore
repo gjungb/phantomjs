@@ -19,3 +19,6 @@ bin/
 
 # vim temp files
 *.swp
+
+# jekyll docs site
+_site
