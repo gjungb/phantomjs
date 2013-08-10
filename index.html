@@ -3,38 +3,61 @@ layout: default
 title: PhantomJS
 ---
 
-<ul>
-  {% for post in site.categories.root reversed sort_by:title %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<h2>PhantomJS is an optimal solution for</h2>
 
-<h2>Releases</h2>
-<ul>
-  {% for post in site.categories.release reversed sort_by:title %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<div id="feature-01" class="feature grid_3 alpha">
+  <h3>Headless Website Testing</h3>
+  <div>
+    <p>
+      Run functional tests with frameworks such as Jasmine, QUnit, Mocha, Capybara, WebDriver, and many others.
+      <a href="https://github.com/ariya/phantomjs/wiki/Headless-Testing">Learn more</a>
+    </p>
+  </div>
+</div>
 
-<h2>WebPage</h2>
+<div id="feature-02" class="feature grid_3">
+  <h3>Screen Capture</h3>
+  <div>
+    <p>
+      Programmatically capture web contents, including SVG and Canvas.
+      Create web site screenshots with thumbnail preview.
+      <a href="https://github.com/ariya/phantomjs/wiki/Screen-Capture">Learn more</a>
+    </p>
+  </div>
+</div>
 
-<h3>Property</h3>
-<ul>
-  {% for post in site.categories.webpage-property reversed sort_by:title %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<div id="feature-03" class="feature grid_3">
+  <h3>Page Automation</h3>
+  <div>
+    <p>
+      Access and manipulate webpages
+      with the standard DOM API, or with
+      usual libraries like jQuery.
+      <br>
+      <a href="https://github.com/ariya/phantomjs/wiki/Page-Automation">Learn more</a>
+    </p>
+  </div>
+</div>
 
-<h3>Method</h3>
-<ul>
-  {% for post in site.categories.webpage-method reversed sort_by:title %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<div id="feature-04" class="feature grid_3 omega">
+  <h3>Network Monitoring</h3>
+  <div>
+    <p>
+      Monitor page loading and export as standard HAR files. Automate performance analysis using YSlow and Jenkins.
+      <a href="https://github.com/ariya/phantomjs/wiki/Network-Monitoring">Learn more</a>
+    </p>
+  </div>
+</div>
 
-<h3>Handler</h3>
-<ul>
-  {% for post in site.categories.webpage-handler reversed sort_by:title %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<div id="feature-end" class="grid_12">
+  <p>
+  PhantomJS is used in the test workflow of various open-source projects:<br/>
+  <a href="http://twitter.github.com/bootstrap/">Bootstrap</a>,
+  <a href="http://codemirror.net/">CodeMirror</a>,
+  <a href="http://emberjs.com/">Ember.js</a>,
+  <a href="http://lesscss.org/">Less.js</a>,
+  <a href="http://modernizr.com/">Modernizr</a>,
+  <a href="http://yuilibrary.com/projects/yui3/">YUI3</a>,
+  and <a href="https://github.com/ariya/phantomjs/wiki/Users">many more</a>.
+  </p>
+</div>

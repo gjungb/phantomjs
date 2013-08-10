@@ -520,6 +520,7 @@ color:#43413e;
 padding-bottom:2em
 }
 
+#description .post h1,
 #description h2 {
 color:#2ecbd6;
 font-size:2.25em;
@@ -573,30 +574,30 @@ color:#29a197
 color:#586e75
 }
 
-#description p {
+#description .post p {
 line-height:125%;
 text-align:left;
 margin-bottom:10px;
 margin-top:10px
 }
 
-#description h2 {
+#description .post h2 {
 text-align:left;
 margin:.8em 0;
 font-size:150%
 }
 
-#description pre {
+#description .post pre {
 margin-left:2em
 }
 
-#description ul {
+#description .post ul {
 line-height:125%;
 list-style-type:disc;
 margin-left:1em;
 margin-bottom:1em
 }
 
-#description li {
+#description .post li {
 margin-left:1em
 }

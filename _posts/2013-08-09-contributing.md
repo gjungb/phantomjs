@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: FAQ
 categories: root
 permalink: contributing.html

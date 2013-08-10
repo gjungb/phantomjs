@@ -1,9 +1,37 @@
 ---
-layout: default
+layout: document
 ---
 
-<h2>{{ page.title }}</h2>
+<div id="intro">
 
-<div class="post">
-{{ content }}
+  <div id="header" class="container_12">
+    <a href="/" class="grid_4 alpha"><img src="/img/phantomjs-logo.png" alt="PhantomJS" id="logo" width="240" height="80"></a>
+    <ul id="nav" class="grid_8 omega">
+      <li><a href="https://github.com/ariya/phantomjs">Source Code</a></li>
+      <li><a href="/documentation">Documentation</a></li>
+      <li><a href="/api">API</a></li>
+      <li><a href="/examples">Examples</a></li>
+      <li><a href="/faq.html">FAQ</a></li>
+    </ul>
+  </div>
+
+</div>
+
+<div id="description" class="container_12">
+  <div class="grid_10 post">
+
+    <h1>{{ page.title }}</h1>
+
+    {{ content }}
+
+  </div>
+</div>
+
+<div id="community">
+  <h2>Community:</h2>
+  <ul>
+    <li><a href="release-1.9.html" id="link-release">Read the release notes</a></li>
+    <li><a href="https://groups.google.com/forum/#!forum/phantomjs" id="link-ml">Join the mailing list</a></li>
+    <li><a href="https://github.com/ariya/phantomjs/issues" id="link-bugs">Report bugs</a></li>
+  </ul>
 </div>

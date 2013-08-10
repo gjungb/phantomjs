@@ -1,7 +1,22 @@
 ---
 layout: post
-title:  "child-frames-count"
+title:  "WebPage » method » childFramesCount"
 categories: api webpage webpage-method
 permalink: api/webpage/method/child-frames-count.html
 ---
+
+## Examples
+
+```javascript
+var webPage = require('webpage');
+var page = webPage.create();
+// @TODO: Finish WebPage » method » childFramesCount example.
+```
+
+## Contribute
+
+Please help us [improve this document]({{ site.githubEdit }}/api/webpage/method/2013-08-09-child-frames-count.md).
+
+If you know anything that could be useful to other developers, we'd love to see it.
+
 

@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: post
 title: Release Names
 categories: root
 permalink: release-names.html
 ---
+
 ## PhantomJS 1.9 "Sakura"
 
 ![](http://farm6.static.flickr.com/5030/5607810834_3220056f56_m.jpg)
