@@ -2,3 +2,4 @@ name: PhantomJS
 markdown: redcarpet
 pygments: true
 githubEdit: https://github.com/JamieMason/phantomjs/edit/docs/_posts
+url: http://jamiemason.github.io/phantomjs
