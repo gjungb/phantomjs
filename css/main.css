@@ -601,3 +601,17 @@ margin-bottom:1em
 #description .post li {
 margin-left:1em
 }
+
+/* JamieMason temp additions */
+
+.nav{
+list-style:none;
+margin-left:0;
+}
+
+.nav > li,
+.nav > li > a{
+display:inline-block;
+*display:inline;
+zoom:1;
+}
