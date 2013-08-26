@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Troubleshooting
-categories: root
+categories: docs docs-help
 permalink: troubleshooting.html
 ---
 

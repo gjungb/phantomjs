@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Release Preparation
-categories: root
+categories: docs docs-contribute
 permalink: release-preparation.html
 ---
 

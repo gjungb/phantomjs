@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Network Monitoring
-categories: root
+categories: docs docs-learn
 permalink: network-monitoring.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Release Names
-categories: root
+categories: docs docs-get-started
 permalink: release-names.html
 ---
 

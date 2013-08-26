@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Headless Testing
-categories: root
+categories: docs docs-learn
 permalink: headless-testing.html
 ---
 

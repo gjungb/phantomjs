@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inter Process Communication
-categories: root
+categories: docs docs-learn
 permalink: inter-process-communication.html
 ---
 

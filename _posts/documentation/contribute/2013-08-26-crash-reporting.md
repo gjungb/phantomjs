@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crash Reporting
-categories: root
+categories: docs docs-contribute
 permalink: crash-reporting.html
 ---
 

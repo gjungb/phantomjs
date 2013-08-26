@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supported Web Standards
-categories: root
+categories: docs docs-explore
 permalink: supported-web-standards.html
 ---
 

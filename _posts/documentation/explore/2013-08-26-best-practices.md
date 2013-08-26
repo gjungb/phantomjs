@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Practices
-categories: root
+categories: docs docs-explore
 permalink: best-practices.html
 ---
 

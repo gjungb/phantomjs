@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Source Code
-categories: root
+categories: docs docs-contribute
 permalink: source-code.html
 ---
 

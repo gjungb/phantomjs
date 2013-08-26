@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Related Projects
-categories: root
+categories: docs docs-explore
 permalink: related-projects.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Page Automation
-categories: root
+categories: docs docs-learn
 permalink: page-automation.html
 ---
 

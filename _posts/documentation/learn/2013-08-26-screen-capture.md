@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Screen Capture
-categories: root
+categories: docs docs-learn
 permalink: screen-capture.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Suite
-categories: root
+categories: docs docs-contribute
 permalink: test-suite.html
 ---
 

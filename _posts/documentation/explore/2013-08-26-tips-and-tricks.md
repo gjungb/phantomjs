@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips and Tricks
-categories: root
+categories: docs docs-explore
 permalink: tips-and-tricks.html
 ---
 

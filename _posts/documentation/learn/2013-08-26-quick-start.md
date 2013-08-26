@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick Start
-categories: root
+categories: docs docs-learn
 permalink: quick-start.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contributing
-categories: root
+categories: docs docs-contribute
 permalink: contributing.html
 ---
 
