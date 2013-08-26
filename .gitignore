@@ -22,3 +22,7 @@ bin/
 
 # jekyll docs site
 _site
+
+/.sass-cache/
+/phantomjs.sublime-project
+/phantomjs.sublime-workspace
