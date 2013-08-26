@@ -26,3 +26,16 @@
   background:#E1E0DC;
   color:#43413E;
 }
+
+.member-name {
+  color:#000;
+}
+
+.current > .member-name {
+  font-weight:bold;
+  color:#C00
+}
+
+.nav-group-end {
+  margin-bottom: 0.5em;
+}

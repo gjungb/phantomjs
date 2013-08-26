@@ -1,0 +1,24 @@
+{% if category_items %}
+  {% for post in category_items reversed sort_by:title %}
+
+  {% assign current_class = nil %}
+  {% assign last_item_class = nil %}
+
+  {% if page.url == post.url %}
+    {% assign current_class = ' current' %}
+  {% endif %}
+
+  {% if forloop.last %}
+    {% assign last_item_class = ' nav-group-end' %}
+  {% endif %}
+
+  <li class="member member-{{ kind }}{{ current_class }}{{ last_item_class }}">
+    <span class="member-label">H</span>
+    {% if current_class == nil %}
+    <a href="{{ site.url }}{{ post.url }}" class="member-name">{{ post.title }}</a>
+    {% else %}
+    <span class="member-name">{{ post.title }}</span>
+    {% endif %}
+  </li>
+  {% endfor %}
+{% endif %}

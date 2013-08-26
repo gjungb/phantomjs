@@ -275,7 +275,8 @@ body {
 
 body {
   font-family: 'Droid Sans','Lucida Grande',sans-serif;
-  line-height: 1.125em; }
+  line-height: 1.125em;
+  color: #444; }
 
 .masthead {
   background: #43413e;
@@ -506,6 +507,16 @@ body {
 .member-handler > .member-label {
   background: #E1E0DC;
   color: #43413E; }
+
+.member-name {
+  color: #000; }
+
+.current > .member-name {
+  font-weight: bold;
+  color: #cc0000; }
+
+.nav-group-end {
+  margin-bottom: 0.5em; }
 
 .highlight {
   background-color: #efefef;
