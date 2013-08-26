@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onUrlChanged"
+title:  "page.onUrlChanged"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-url-changed.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-url-changed.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onUrlChanged example.
+// @TODO: Finish page.onUrlChanged example.
 ```
 
 ## Contribute

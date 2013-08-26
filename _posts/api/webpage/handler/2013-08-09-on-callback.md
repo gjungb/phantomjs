@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onCallback"
+title:  "page.onCallback"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-callback.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-callback.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onCallback example.
+// @TODO: Finish page.onCallback example.
 ```
 
 ## Contribute

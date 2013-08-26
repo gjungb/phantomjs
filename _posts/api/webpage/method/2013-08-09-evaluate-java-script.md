@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » evaluateJavaScript"
+title:  "page.evaluateJavaScript"
 categories: api webpage webpage-method
 permalink: api/webpage/method/evaluate-java-script.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/evaluate-java-script.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » evaluateJavaScript example.
+// @TODO: Finish page.evaluateJavaScript example.
 ```
 
 ## Contribute

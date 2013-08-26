@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » focusedFrameName"
+title:  "page.focusedFrameName"
 categories: api webpage webpage-property
 permalink: api/webpage/property/focused-frame-name.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/focused-frame-name.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » focusedFrameName example.
+// @TODO: Finish page.focusedFrameName example.
 ```
 
 ## Contribute

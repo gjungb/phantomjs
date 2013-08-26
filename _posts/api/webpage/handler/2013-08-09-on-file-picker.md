@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onFilePicker"
+title:  "page.onFilePicker"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-file-picker.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-file-picker.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onFilePicker example.
+// @TODO: Finish page.onFilePicker example.
 ```
 
 ## Contribute

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onPageCreated"
+title:  "page.onPageCreated"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-page-created.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-page-created.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onPageCreated example.
+// @TODO: Finish page.onPageCreated example.
 ```
 
 ## Contribute

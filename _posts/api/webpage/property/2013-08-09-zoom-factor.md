@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » zoomFactor"
+title:  "page.zoomFactor"
 categories: api webpage webpage-property
 permalink: api/webpage/property/zoom-factor.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/zoom-factor.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » zoomFactor example.
+// @TODO: Finish page.zoomFactor example.
 ```
 
 ## Contribute

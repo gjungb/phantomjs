@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » setContent"
+title:  "page.setContent"
 categories: api webpage webpage-method
 permalink: api/webpage/method/set-content.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/set-content.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » setContent example.
+// @TODO: Finish page.setContent example.
 ```
 
 ## Contribute

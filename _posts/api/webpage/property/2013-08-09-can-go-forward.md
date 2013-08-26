@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » canGoForward"
+title:  "page.canGoForward"
 categories: api webpage webpage-property
 permalink: api/webpage/property/can-go-forward.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/can-go-forward.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » canGoForward example.
+// @TODO: Finish page.canGoForward example.
 ```
 
 ## Contribute

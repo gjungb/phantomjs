@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » plainText"
+title:  "page.plainText"
 categories: api webpage webpage-property
 permalink: api/webpage/property/plain-text.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/plain-text.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » plainText example.
+// @TODO: Finish page.plainText example.
 ```
 
 ## Contribute

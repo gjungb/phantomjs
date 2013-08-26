@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onConfirm"
+title:  "page.onConfirm"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-confirm.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-confirm.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onConfirm example.
+// @TODO: Finish page.onConfirm example.
 ```
 
 ## Contribute

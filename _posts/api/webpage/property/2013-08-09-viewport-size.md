@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » viewportSize"
+title:  "page.viewportSize"
 categories: api webpage webpage-property
 permalink: api/webpage/property/viewport-size.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/viewport-size.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » viewportSize example.
+// @TODO: Finish page.viewportSize example.
 ```
 
 ## Contribute

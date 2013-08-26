@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onLoadFinished"
+title:  "page.onLoadFinished"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-load-finished.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-load-finished.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onLoadFinished example.
+// @TODO: Finish page.onLoadFinished example.
 ```
 
 ## Contribute

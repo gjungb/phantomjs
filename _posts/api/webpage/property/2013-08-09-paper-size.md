@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » paperSize"
+title:  "page.paperSize"
 categories: api webpage webpage-property
 permalink: api/webpage/property/paper-size.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/paper-size.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » paperSize example.
+// @TODO: Finish page.paperSize example.
 ```
 
 ## Contribute

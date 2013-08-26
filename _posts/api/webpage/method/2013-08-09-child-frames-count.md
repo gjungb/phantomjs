@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » childFramesCount"
+title:  "page.childFramesCount"
 categories: api webpage webpage-method
 permalink: api/webpage/method/child-frames-count.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/child-frames-count.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » childFramesCount example.
+// @TODO: Finish page.childFramesCount example.
 ```
 
 ## Contribute

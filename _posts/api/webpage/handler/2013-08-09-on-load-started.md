@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onLoadStarted"
+title:  "page.onLoadStarted"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-load-started.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-load-started.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onLoadStarted example.
+// @TODO: Finish page.onLoadStarted example.
 ```
 
 ## Contribute

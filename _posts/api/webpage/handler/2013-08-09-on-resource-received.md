@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onResourceReceived"
+title:  "page.onResourceReceived"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-resource-received.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-resource-received.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onResourceReceived example.
+// @TODO: Finish page.onResourceReceived example.
 ```
 
 ## Contribute

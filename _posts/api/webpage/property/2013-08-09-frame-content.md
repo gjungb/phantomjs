@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » frameContent"
+title:  "page.frameContent"
 categories: api webpage webpage-property
 permalink: api/webpage/property/frame-content.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/frame-content.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » frameContent example.
+// @TODO: Finish page.frameContent example.
 ```
 
 ## Contribute

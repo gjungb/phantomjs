@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » offlineStoragePath"
+title:  "page.offlineStoragePath"
 categories: api webpage webpage-property
 permalink: api/webpage/property/offline-storage-path.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/offline-storage-path.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » offlineStoragePath example.
+// @TODO: Finish page.offlineStoragePath example.
 ```
 
 ## Contribute

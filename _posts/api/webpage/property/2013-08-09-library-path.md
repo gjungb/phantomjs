@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » libraryPath"
+title:  "page.libraryPath"
 categories: api webpage webpage-property
 permalink: api/webpage/property/library-path.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/library-path.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » libraryPath example.
+// @TODO: Finish page.libraryPath example.
 ```
 
 ## Contribute

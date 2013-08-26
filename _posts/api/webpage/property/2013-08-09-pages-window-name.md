@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » pagesWindowName"
+title:  "page.pagesWindowName"
 categories: api webpage webpage-property
 permalink: api/webpage/property/pages-window-name.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/pages-window-name.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » pagesWindowName example.
+// @TODO: Finish page.pagesWindowName example.
 ```
 
 ## Contribute

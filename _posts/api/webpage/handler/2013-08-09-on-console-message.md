@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onConsoleMessage"
+title:  "page.onConsoleMessage"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-console-message.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-console-message.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onConsoleMessage example.
+// @TODO: Finish page.onConsoleMessage example.
 ```
 
 ## Contribute

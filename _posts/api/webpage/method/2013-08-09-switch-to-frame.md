@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » switchToFrame"
+title:  "page.switchToFrame"
 categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-frame.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/switch-to-frame.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » switchToFrame example.
+// @TODO: Finish page.switchToFrame example.
 ```
 
 ## Contribute

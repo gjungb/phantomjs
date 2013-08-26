@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » canGoBack"
+title:  "page.canGoBack"
 categories: api webpage webpage-property
 permalink: api/webpage/property/can-go-back.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/can-go-back.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » canGoBack example.
+// @TODO: Finish page.canGoBack example.
 ```
 
 ## Contribute

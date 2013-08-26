@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » addCookie"
+title:  "page.addCookie"
 categories: api webpage webpage-method
 permalink: api/webpage/method/add-cookie.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/add-cookie.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » addCookie example.
+// @TODO: Finish page.addCookie example.
 ```
 
 ## Contribute

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » offlineStorageQuota"
+title:  "page.offlineStorageQuota"
 categories: api webpage webpage-property
 permalink: api/webpage/property/offline-storage-quota.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/offline-storage-quota.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » offlineStorageQuota example.
+// @TODO: Finish page.offlineStorageQuota example.
 ```
 
 ## Contribute

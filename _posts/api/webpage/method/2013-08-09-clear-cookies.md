@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » clearCookies"
+title:  "page.clearCookies"
 categories: api webpage webpage-method
 permalink: api/webpage/method/clear-cookies.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/clear-cookies.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » clearCookies example.
+// @TODO: Finish page.clearCookies example.
 ```
 
 ## Contribute

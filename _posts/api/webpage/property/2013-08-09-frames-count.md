@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » framesCount"
+title:  "page.framesCount"
 categories: api webpage webpage-property
 permalink: api/webpage/property/frames-count.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/frames-count.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » framesCount example.
+// @TODO: Finish page.framesCount example.
 ```
 
 ## Contribute

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » switchToParentFrame"
+title:  "page.switchToParentFrame"
 categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-parent-frame.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/switch-to-parent-frame.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » switchToParentFrame example.
+// @TODO: Finish page.switchToParentFrame example.
 ```
 
 ## Contribute

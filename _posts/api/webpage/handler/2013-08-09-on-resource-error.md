@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onResourceError"
+title:  "page.onResourceError"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-resource-error.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-resource-error.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onResourceError example.
+// @TODO: Finish page.onResourceError example.
 ```
 
 ## Contribute

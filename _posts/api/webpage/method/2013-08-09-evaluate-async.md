@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » evaluateAsync"
+title:  "page.evaluateAsync"
 categories: api webpage webpage-method
 permalink: api/webpage/method/evaluate-async.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/evaluate-async.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » evaluateAsync example.
+// @TODO: Finish page.evaluateAsync example.
 ```
 
 ## Contribute

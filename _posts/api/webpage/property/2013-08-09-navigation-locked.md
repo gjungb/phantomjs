@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » navigationLocked"
+title:  "page.navigationLocked"
 categories: api webpage webpage-property
 permalink: api/webpage/property/navigation-locked.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/navigation-locked.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » navigationLocked example.
+// @TODO: Finish page.navigationLocked example.
 ```
 
 ## Contribute

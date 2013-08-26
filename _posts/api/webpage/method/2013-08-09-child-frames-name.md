@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » childFramesName"
+title:  "page.childFramesName"
 categories: api webpage webpage-method
 permalink: api/webpage/method/child-frames-name.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/child-frames-name.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » childFramesName example.
+// @TODO: Finish page.childFramesName example.
 ```
 
 ## Contribute

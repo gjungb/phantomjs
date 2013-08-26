@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » uploadFile"
+title:  "page.uploadFile"
 categories: api webpage webpage-method
 permalink: api/webpage/method/upload-file.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/upload-file.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » uploadFile example.
+// @TODO: Finish page.uploadFile example.
 ```
 
 ## Contribute

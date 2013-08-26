@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » currentFrameName"
+title:  "page.currentFrameName"
 categories: api webpage webpage-method
 permalink: api/webpage/method/current-frame-name.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/current-frame-name.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » currentFrameName example.
+// @TODO: Finish page.currentFrameName example.
 ```
 
 ## Contribute

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » switchToChildFrame"
+title:  "page.switchToChildFrame"
 categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-child-frame.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/switch-to-child-frame.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » switchToChildFrame example.
+// @TODO: Finish page.switchToChildFrame example.
 ```
 
 ## Contribute

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » switchToMainFrame"
+title:  "page.switchToMainFrame"
 categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-main-frame.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/switch-to-main-frame.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » switchToMainFrame example.
+// @TODO: Finish page.switchToMainFrame example.
 ```
 
 ## Contribute

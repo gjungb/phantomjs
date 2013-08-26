@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onNavigationRequested"
+title:  "page.onNavigationRequested"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-navigation-requested.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-navigation-requested.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onNavigationRequested example.
+// @TODO: Finish page.onNavigationRequested example.
 ```
 
 ## Contribute

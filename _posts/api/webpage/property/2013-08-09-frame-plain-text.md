@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » framePlainText"
+title:  "page.framePlainText"
 categories: api webpage webpage-property
 permalink: api/webpage/property/frame-plain-text.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/frame-plain-text.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » framePlainText example.
+// @TODO: Finish page.framePlainText example.
 ```
 
 ## Contribute

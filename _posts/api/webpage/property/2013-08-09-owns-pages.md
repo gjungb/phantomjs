@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » ownsPages"
+title:  "page.ownsPages"
 categories: api webpage webpage-property
 permalink: api/webpage/property/owns-pages.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/owns-pages.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » ownsPages example.
+// @TODO: Finish page.ownsPages example.
 ```
 
 ## Contribute

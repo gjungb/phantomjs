@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » switchToFocusedFrame"
+title:  "page.switchToFocusedFrame"
 categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-focused-frame.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/switch-to-focused-frame.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » switchToFocusedFrame example.
+// @TODO: Finish page.switchToFocusedFrame example.
 ```
 
 ## Contribute

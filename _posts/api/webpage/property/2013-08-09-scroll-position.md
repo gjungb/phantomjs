@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » scrollPosition"
+title:  "page.scrollPosition"
 categories: api webpage webpage-property
 permalink: api/webpage/property/scroll-position.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/scroll-position.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » scrollPosition example.
+// @TODO: Finish page.scrollPosition example.
 ```
 
 ## Contribute

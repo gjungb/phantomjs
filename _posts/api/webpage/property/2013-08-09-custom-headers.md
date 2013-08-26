@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » customHeaders"
+title:  "page.customHeaders"
 categories: api webpage webpage-property
 permalink: api/webpage/property/custom-headers.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/custom-headers.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » customHeaders example.
+// @TODO: Finish page.customHeaders example.
 ```
 
 ## Contribute

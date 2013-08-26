@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » property » frameName"
+title:  "page.frameName"
 categories: api webpage webpage-property
 permalink: api/webpage/property/frame-name.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/property/frame-name.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » property » frameName example.
+// @TODO: Finish page.frameName example.
 ```
 
 ## Contribute

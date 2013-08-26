@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onInitialized"
+title:  "page.onInitialized"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-initialized.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-initialized.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onInitialized example.
+// @TODO: Finish page.onInitialized example.
 ```
 
 ## Contribute

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » includeJs"
+title:  "page.includeJs"
 categories: api webpage webpage-method
 permalink: api/webpage/method/include-js.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/include-js.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » includeJs example.
+// @TODO: Finish page.includeJs example.
 ```
 
 ## Contribute

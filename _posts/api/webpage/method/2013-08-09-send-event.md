@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » sendEvent"
+title:  "page.sendEvent"
 categories: api webpage webpage-method
 permalink: api/webpage/method/send-event.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/send-event.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » sendEvent example.
+// @TODO: Finish page.sendEvent example.
 ```
 
 ## Contribute

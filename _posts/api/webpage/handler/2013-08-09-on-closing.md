@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » handler » onClosing"
+title:  "page.onClosing"
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-closing.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/handler/on-closing.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » handler » onClosing example.
+// @TODO: Finish page.onClosing example.
 ```
 
 ## Contribute

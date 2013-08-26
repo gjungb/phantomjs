@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WebPage » method » goForward"
+title:  "page.goForward"
 categories: api webpage webpage-method
 permalink: api/webpage/method/go-forward.html
 ---
@@ -10,7 +10,7 @@ permalink: api/webpage/method/go-forward.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish WebPage » method » goForward example.
+// @TODO: Finish page.goForward example.
 ```
 
 ## Contribute
