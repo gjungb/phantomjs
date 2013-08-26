@@ -1,7 +1,7 @@
 name: PhantomJS
 markdown: redcarpet
 pygments: true
-githubEdit: https://github.com/JamieMason/phantomjs/edit/docs/_posts
+githubEdit: https://github.com/JamieMason/phantomjs/blob/gh-pages/_posts
 
 # When pushing to GitHub
 url: http://jamiemason.github.io/phantomjs
