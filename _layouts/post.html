@@ -8,12 +8,68 @@ layout: document
 
 </div>
 
-<div class="post">
+<div class="grid navigator">
+  <div class="grid_3">
 
-  <h1>{{ page.title }}</h1>
+    <ul>
+      <li class="nav-group">
+        <div class="nav-group-label">Phantom Object</div>
+        {% assign category_properties = site.categories.phantom-property %}
+        {% assign category_methods = site.categories.phantom-method %}
+        {% assign category_handlers = site.categories.phantom-handler %}
+        {% include nav-list.md %}
+      </li>
+      <li class="nav-group">
+        <div class="nav-group-label">child_process</div>
+        {% assign category_properties = site.categories.child_process-property %}
+        {% assign category_methods = site.categories.child_process-method %}
+        {% assign category_handlers = site.categories.child_process-handler %}
+        {% include nav-list.md %}
+      </li>
+      <li class="nav-group">
+        <div class="nav-group-label">fs</div>
+        {% assign category_properties = site.categories.fs-property %}
+        {% assign category_methods = site.categories.fs-method %}
+        {% assign category_handlers = site.categories.fs-handler %}
+        {% include nav-list.md %}
+      </li>
+      <li class="nav-group">
+        <div class="nav-group-label">Stream Objects</div>
+        {% assign category_properties = site.categories.stream-property %}
+        {% assign category_methods = site.categories.stream-method %}
+        {% assign category_handlers = site.categories.stream-handler %}
+        {% include nav-list.md %}
+      </li>
+      <li class="nav-group">
+        <div class="nav-group-label">system</div>
+        {% assign category_properties = site.categories.system-property %}
+        {% assign category_methods = site.categories.system-method %}
+        {% assign category_handlers = site.categories.system-handler %}
+        {% include nav-list.md %}
+      </li>
+      <li class="nav-group">
+        <div class="nav-group-label">webpage</div>
+        {% assign category_properties = site.categories.webpage-property %}
+        {% assign category_methods = site.categories.webpage-method %}
+        {% assign category_handlers = site.categories.webpage-handler %}
+        {% include nav-list.md %}
+      </li>
+      <li class="nav-group">
+        <div class="nav-group-label">webserver</div>
+        {% assign category_properties = site.categories.webserver-property %}
+        {% assign category_methods = site.categories.webserver-method %}
+        {% assign category_handlers = site.categories.webserver-handler %}
+        {% include nav-list.md %}
+      </li>
+    </ul>
 
-  {{ content }}
-
+  </div>
+  <div class="grid_9">
+    <div class="post">
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </div>
+  </div>
 </div>
 
 {% include community.html %}

@@ -454,28 +454,26 @@ body {
   text-align: center;
   margin: 1.5em 0 0; }
 
-.post {
-  margin: 2em; }
-  .post h1, .post h2, .post h3, .post h4 {
-    margin-bottom: 1em; }
-  .post p, .post ul, .post pre {
-    margin-bottom: 1.5em; }
-  .post h1 {
-    color: #2ecbd6;
-    font-size: 2.25em;
-    font-weight: 700;
-    text-align: center; }
-  .post h2 {
-    font-size: 150%; }
-  .post p {
-    line-height: 125%; }
-  .post ul {
-    line-height: 125%;
-    list-style-type: disc;
-    margin-left: 1em; }
-  .post li {
-    margin-left: 1em;
-    list-style-position: inside; }
+.post h1, .post h2, .post h3, .post h4 {
+  margin-bottom: 1em; }
+.post p, .post ul, .post pre {
+  margin-bottom: 1.5em; }
+.post h1 {
+  color: #2ecbd6;
+  font-size: 2.25em;
+  font-weight: 700;
+  text-align: center; }
+.post h2 {
+  font-size: 150%; }
+.post p {
+  line-height: 125%; }
+.post ul {
+  line-height: 125%;
+  list-style-type: disc;
+  margin-left: 1em; }
+.post li {
+  margin-left: 1em;
+  list-style-position: inside; }
 
 .col-4 {
   -moz-column-count: 4;
@@ -484,6 +482,30 @@ body {
 
 .col-3 > li {
   display: block; }
+
+.nav-group,
+.nav-group-label {
+  margin-bottom: 1em; }
+
+.member-label {
+  border: 1px solid #DDD;
+  display: inline-block;
+  font-size: 10px;
+  text-align: center;
+  width: 2em;
+  border-radius: 10px; }
+
+.member-property > .member-label {
+  background-color: #43413E;
+  color: #2ECBD6; }
+
+.member-method > .member-label {
+  background-color: #2ECBD6;
+  color: #000; }
+
+.member-handler > .member-label {
+  background: #E1E0DC;
+  color: #43413E; }
 
 .highlight {
   background-color: #efefef;
@@ -769,3 +791,6 @@ code {
   color: #2aa198; }
 
 /* Literal.Number.Integer.Long */
+.navigator {
+  margin-top: 2em;
+  margin-bottom: 2em; }

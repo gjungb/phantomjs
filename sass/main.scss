@@ -10,4 +10,10 @@ line-height:1.125em
 @import '_community.scss';
 @import 'home/_index.scss';
 @import '_posts.scss';
+@import '_nav-list.scss';
 @import '_solarized-light.scss';
+
+.navigator {
+  margin-top:2em;
+  margin-bottom:2em;
+}
