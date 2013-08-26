@@ -2,7 +2,7 @@
 layout: post
 title:  "phantom.scriptName"
 categories: api phantom phantom-property
-permalink: api/phantom-object/property/scriptname.html
+permalink: api/phantom/property/scriptname.html
 ---
 
 `phantom.scriptName` {String}
@@ -20,7 +20,7 @@ phantom.scriptName
 
 ## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/phantom-object/property/2013-08-26-scriptname.md).
+Please help us [improve this document]({{ site.githubEdit }}/api/phantom/property/2013-08-26-scriptname.md).
 
 If you know anything that could be useful to other developers, we'd love to see it.
 

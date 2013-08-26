@@ -2,7 +2,7 @@
 layout: post
 title:  "phantom.libraryPath"
 categories: api phantom phantom-property
-permalink: api/phantom-object/property/library-path.html
+permalink: api/phantom/property/library-path.html
 ---
 
 `phantom.libraryPath` {String}
@@ -18,7 +18,7 @@ phantom.libraryPath
 
 ## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/phantom-object/property/2013-08-26-library-path.md).
+Please help us [improve this document]({{ site.githubEdit }}/api/phantom/property/2013-08-26-library-path.md).
 
 If you know anything that could be useful to other developers, we'd love to see it.
 

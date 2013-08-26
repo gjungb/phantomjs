@@ -2,7 +2,7 @@
 layout: post
 title:  "phantom.addCookie"
 categories: api phantom phantom-method
-permalink: api/phantom-object/method/add-cookie.html
+permalink: api/phantom/method/add-cookie.html
 ---
 
 `addCookie([Cookie](#cookie))` {Boolean}
@@ -23,7 +23,7 @@ phantom.addCookie({
 
 ## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/phantom-object/method/2013-08-26-add-cookie.md).
+Please help us [improve this document]({{ site.githubEdit }}/api/phantom/method/2013-08-26-add-cookie.md).
 
 If you know anything that could be useful to other developers, we'd love to see it.
 

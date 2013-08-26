@@ -2,7 +2,7 @@
 layout: post
 title:  "phantom.cookiesEnabled"
 categories: api phantom phantom-property
-permalink: api/phantom-object/property/cookies-enabled.html
+permalink: api/phantom/property/cookies-enabled.html
 ---
 
 `phantom.cookiesEnabled` {Boolean}
@@ -20,7 +20,7 @@ phantom.cookiesEnabled
 
 ## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/phantom-object/property/2013-08-26-cookies-enabled.md).
+Please help us [improve this document]({{ site.githubEdit }}/api/phantom/property/2013-08-26-cookies-enabled.md).
 
 If you know anything that could be useful to other developers, we'd love to see it.
 
