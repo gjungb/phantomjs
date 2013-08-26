@@ -2,62 +2,47 @@
 layout: document
 ---
 
-<div id="intro">
+<div class="masthead">
 
-  <div id="header" class="container_12">
-    <a href="{{ site.url }}/" class="grid_4 alpha"><img src="{{ site.url }}/img/phantomjs-logo.png" alt="PhantomJS" id="logo" width="240" height="80"></a>
-    <ul id="nav" class="grid_8 omega">
-      <li><a href="https://github.com/ariya/phantomjs">Source Code</a></li>
-      <li><a href="{{ site.url }}/documentation">Documentation</a></li>
-      <li><a href="{{ site.url }}/api">API</a></li>
-      <li><a href="{{ site.url }}/examples">Examples</a></li>
-      <li><a href="{{ site.url }}/faq.html">FAQ</a></li>
-    </ul>
-  </div>
+  {% include header.html %}
 
-  <div id="introduction" class="container_12">
-      <div class="grid_7 alpha">
-          <h1>
-              Full web stack<br>
-              No browser required
-          </h1>
-          <p class="explanation">
-              PhantomJS is a headless WebKit scriptable with a JavaScript API.
-              It has <strong>fast</strong> and <strong>native</strong> support for various web standards:
-              DOM handling, CSS selector, JSON, Canvas, and SVG.<br></a>
-          </p>
-          <p class="action">
-              <a href="download.html" id="download">Download <span class="version">v1.9</span></a>
-              <a href="https://github.com/ariya/phantomjs/wiki/Quick-Start">Get started</a>
-          </p>
-      </div>
-      <div id="intro-example" class="grid_5 omega">
+  <div class="intro grid">
 
-          <pre class="solarized">
+    <div class="grid_7 alpha">
+      <h1>
+        Full web stack<br>
+        No browser required
+      </h1>
+      <p class="explanation">
+        PhantomJS is a headless WebKit scriptable with a JavaScript API.
+        It has <strong>fast</strong> and <strong>native</strong> support for various web standards:
+        DOM handling, CSS selector, JSON, Canvas, and SVG.<br></a>
+      </p>
+      <p class="action">
+        <a href="download.html" class="btn-download">Download <span class="version">v1.9</span></a>
+        <a href="https://github.com/ariya/phantomjs/wiki/Quick-Start">Get started</a>
+      </p>
+    </div>
+
+    <div class="intro-example grid_5 omega">
+      <pre class="solarized">
 <strong>Simple Javascript example</strong>
 
 <span class="object">console</span>.<span class="function">log</span>(<span class="literal">'Loading a web page'</span>);
 var <span class="object">page</span> = require(<span class="literal">'webpage'</span>).<span class="function">create</span>();
 var <span class="object">url</span> = <span class="literal">'http://www.phantomjs.org/'</span>;
 <span class="object">page</span>.<span class="function">open</span>(url, <span class="function">function</span> (status) {
-    <span class="comment">//Page is loaded!</span>
-    <span class="object">phantom</span>.<span class="function">exit</span>();
-});</pre>
-
-      </div>
+  <span class="comment">//Page is loaded!</span>
+  <span class="object">phantom</span>.<span class="function">exit</span>();
+});
+      </pre>
+    </div>
   </div>
 
 </div>
 
-<div id="community">
-  <h2>Community:</h2>
-  <ul>
-    <li><a href="{{ site.url }}/release-1.9.html" id="link-release">Read the release notes</a></li>
-    <li><a href="https://groups.google.com/forum/#!forum/phantomjs" id="link-ml">Join the mailing list</a></li>
-    <li><a href="https://github.com/ariya/phantomjs/issues" id="link-bugs">Report bugs</a></li>
-  </ul>
-</div>
+{% include community.html %}
 
-<div id="description" class="container_12">
+<div class="description grid">
   {{ content }}
 </div>

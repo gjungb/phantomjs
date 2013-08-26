@@ -2,36 +2,22 @@
 layout: document
 ---
 
-<div id="intro">
+<div class="masthead">
 
-  <div id="header" class="container_12">
-    <a href="{{ site.url }}/" class="grid_4 alpha"><img src="{{ site.url }}/img/phantomjs-logo.png" alt="PhantomJS" id="logo" width="240" height="80"></a>
-    <ul id="nav" class="grid_8 omega">
-      <li><a href="https://github.com/ariya/phantomjs">Source Code</a></li>
-      <li><a href="{{ site.url }}/documentation">Documentation</a></li>
-      <li><a href="{{ site.url }}/api">API</a></li>
-      <li><a href="{{ site.url }}/examples">Examples</a></li>
-      <li><a href="{{ site.url }}/faq.html">FAQ</a></li>
-    </ul>
-  </div>
+  {% include header.html %}
 
 </div>
 
-<div id="description" class="container_12">
-  <div class="grid_10 post">
+<div class="grid">
+  <div class="grid_10">
+    <div class="post">
 
-    <h1>{{ page.title }}</h1>
+      <h1>{{ page.title }}</h1>
 
-    {{ content }}
+      {{ content }}
 
+    </div>
   </div>
 </div>
 
-<div id="community">
-  <h2>Community:</h2>
-  <ul>
-    <li><a href="{{ site.url }}/release-1.9.html" id="link-release">Read the release notes</a></li>
-    <li><a href="https://groups.google.com/forum/#!forum/phantomjs" id="link-ml">Join the mailing list</a></li>
-    <li><a href="https://github.com/ariya/phantomjs/issues" id="link-bugs">Report bugs</a></li>
-  </ul>
-</div>
+{% include community.html %}
