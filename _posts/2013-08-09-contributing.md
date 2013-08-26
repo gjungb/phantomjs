@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FAQ
+title: Contributing
 categories: root
 permalink: contributing.html
 ---
