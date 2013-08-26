@@ -1,9 +1,10 @@
+.nav-title,
 .nav-group,
 .nav-group-label {
   margin-bottom:1em;
 }
 
-.member-label {
+.nav-item-label {
   border:1px solid #DDD;
   display: inline-block;
   font-size:10px;
@@ -12,26 +13,27 @@
   border-radius:10px;
 }
 
-.member-property > .member-label {
+.nav-item-property > .nav-item-label {
   background-color:#43413E;
   color:#2ECBD6;
 }
 
-.member-method > .member-label {
+.nav-item-method > .nav-item-label {
   background-color:#2ECBD6;
   color:#000;
 }
 
-.member-handler > .member-label {
+.nav-item-handler > .nav-item-label {
   background:#E1E0DC;
   color:#43413E;
 }
 
-.member-name {
+.nav-item-name {
   color:#000;
 }
 
-.current > .member-name {
+.nav-title,
+.current > .nav-item-name {
   font-weight:bold;
   color:#C00
 }

@@ -2,7 +2,7 @@
 
 ### {{ category_title }}
 
-<ul class="col-4">
+<ul>
   {% for post in category_path reversed sort_by:title %}
   <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}

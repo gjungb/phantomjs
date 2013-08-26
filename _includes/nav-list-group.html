@@ -12,12 +12,12 @@
     {% assign last_item_class = ' nav-group-end' %}
   {% endif %}
 
-  <li class="member member-{{ kind }}{{ current_class }}{{ last_item_class }}">
-    <span class="member-label">H</span>
+  <li class="nav-item nav-item-{{ kind }}{{ current_class }}{{ last_item_class }}">
+    <span class="nav-item-label">{{ kind_key }}</span>
     {% if current_class == nil %}
-    <a href="{{ site.url }}{{ post.url }}" class="member-name">{{ post.title }}</a>
+    <a href="{{ site.url }}{{ post.url }}" class="nav-item-name">{{ post.title }}</a>
     {% else %}
-    <span class="member-name">{{ post.title }}</span>
+    <span class="nav-item-name">{{ post.title }}</span>
     {% endif %}
   </li>
   {% endfor %}
