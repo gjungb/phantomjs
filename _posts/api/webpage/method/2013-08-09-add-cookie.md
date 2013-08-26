@@ -10,7 +10,16 @@ permalink: api/webpage/method/add-cookie.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish page.addCookie example.
+
+page.addCookie({
+  'name'     : 'Valid-Cookie-Name',   /* required property */
+  'value'    : 'Valid-Cookie-Value',  /* required property */
+  'domain'   : 'localhost',           /* required property */
+  'path'     : '/foo',
+  'httponly' : true,
+  'secure'   : false,
+  'expires'  : (new Date()).getTime() + (1000 * 60 * 60)   /* <-- expires in 1 hour */
+});
 ```
 
 ## Contribute
