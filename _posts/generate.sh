@@ -7,7 +7,7 @@ function create {
   local NAME=$4
   local DASHNAME=$5
   local OUTFILE="api/$DIRNAME/$KIND/2013-08-26-$DASHNAME.md"
-  local TITLE="$GROUPNAME » $KIND » $NAME"
+  local TITLE="$GROUPNAME.$NAME"
 
   mkdir "api/$DIRNAME"
   mkdir "api/$DIRNAME/$KIND"
@@ -22,6 +22,8 @@ permalink: api/$DIRNAME/$KIND/$DASHNAME.html
 ## Examples
 
 \`\`\`javascript
+var webserver = require('webserver');
+var server = webserver.create();
 // @TODO: Finish $TITLE example.
 \`\`\`
 
@@ -34,4 +36,6 @@ If you know anything that could be useful to other developers, we'd love to see 
 " > $OUTFILE
 }
 
-create 'child_process' 'child_process' 'method' 'spawn' 'spawn'
+create 'webserver' 'webserver' 'property' 'port' 'port'
+create 'webserver' 'webserver' 'method' 'listen' 'listen'
+create 'webserver' 'webserver' 'method' 'close' 'close'
