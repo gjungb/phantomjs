@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fs.isReadable"
+title:  isReadable
 categories: api fs fs-method
 permalink: api/fs/method/is-readable.html
 ---

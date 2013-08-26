@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.switchToFocusedFrame"
+title:  switchToFocusedFrame
 categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-focused-frame.html
 ---

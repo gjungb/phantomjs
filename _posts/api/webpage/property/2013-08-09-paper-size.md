@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.paperSize"
+title:  paperSize
 categories: api webpage webpage-property
 permalink: api/webpage/property/paper-size.html
 ---

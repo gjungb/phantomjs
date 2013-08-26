@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.onConsoleMessage"
+title:  onConsoleMessage
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-console-message.html
 ---

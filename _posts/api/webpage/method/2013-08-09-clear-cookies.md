@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.clearCookies"
+title:  clearCookies
 categories: api webpage webpage-method
 permalink: api/webpage/method/clear-cookies.html
 ---

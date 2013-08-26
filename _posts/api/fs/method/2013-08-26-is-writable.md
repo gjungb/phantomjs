@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fs.isWritable"
+title:  isWritable
 categories: api fs fs-method
 permalink: api/fs/method/is-writable.html
 ---

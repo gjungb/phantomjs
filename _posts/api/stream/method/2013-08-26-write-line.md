@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "stream.writeLine"
+title:  writeLine
 categories: api fs stream stream-method
 permalink: api/stream/method/write-line.html
 ---

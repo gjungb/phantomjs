@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.framePlainText"
+title:  framePlainText
 categories: api webpage webpage-property
 permalink: api/webpage/property/frame-plain-text.html
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.onConfirm"
+title:  onConfirm
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-confirm.html
 ---

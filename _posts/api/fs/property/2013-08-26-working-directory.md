@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fs.workingDirectory"
+title:  workingDirectory
 categories: api fs fs-property
 permalink: api/fs/property/working-directory.html
 ---

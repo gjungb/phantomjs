@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "phantom.clearCookies"
+title:  clearCookies
 categories: api phantom phantom-method
 permalink: api/phantom/method/clear-cookies.html
 ---

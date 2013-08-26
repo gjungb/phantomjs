@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.switchToParentFrame"
+title:  switchToParentFrame
 categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-parent-frame.html
 ---

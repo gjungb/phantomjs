@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.switchToFrame"
+title:  switchToFrame
 categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-frame.html
 ---

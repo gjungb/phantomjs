@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.onCallback"
+title:  onCallback
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-callback.html
 ---

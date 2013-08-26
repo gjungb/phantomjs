@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fs.removeDirectory"
+title:  removeDirectory
 categories: api fs fs-method
 permalink: api/fs/method/remove-directory.html
 ---

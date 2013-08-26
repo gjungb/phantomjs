@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "phantom.deleteCookie"
+title:  deleteCookie
 categories: api phantom phantom-method
 permalink: api/phantom/method/delete-cookie.html
 ---

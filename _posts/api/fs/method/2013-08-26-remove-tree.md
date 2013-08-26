@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fs.removeTree"
+title:  removeTree
 categories: api fs fs-method
 permalink: api/fs/method/remove-tree.html
 ---

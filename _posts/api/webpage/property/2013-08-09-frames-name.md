@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.framesName"
+title:  framesName
 categories: api webpage webpage-property
 permalink: api/webpage/property/frames-name.html
 ---

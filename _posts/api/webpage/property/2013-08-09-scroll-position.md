@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.scrollPosition"
+title:  scrollPosition
 categories: api webpage webpage-property
 permalink: api/webpage/property/scroll-position.html
 ---

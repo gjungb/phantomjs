@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.switchToMainFrame"
+title:  switchToMainFrame
 categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-main-frame.html
 ---

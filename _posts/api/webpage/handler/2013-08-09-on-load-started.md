@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.onLoadStarted"
+title:  onLoadStarted
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-load-started.html
 ---

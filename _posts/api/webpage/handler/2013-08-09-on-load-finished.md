@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.onLoadFinished"
+title:  onLoadFinished
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-load-finished.html
 ---

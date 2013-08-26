@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.onFilePicker"
+title:  onFilePicker
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-file-picker.html
 ---

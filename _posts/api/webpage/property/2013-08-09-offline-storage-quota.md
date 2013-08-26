@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.offlineStorageQuota"
+title:  offlineStorageQuota
 categories: api webpage webpage-property
 permalink: api/webpage/property/offline-storage-quota.html
 ---

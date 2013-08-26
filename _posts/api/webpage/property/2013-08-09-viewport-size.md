@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.viewportSize"
+title:  viewportSize
 categories: api webpage webpage-property
 permalink: api/webpage/property/viewport-size.html
 ---

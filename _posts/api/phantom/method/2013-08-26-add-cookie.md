@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "phantom.addCookie"
+title:  addCookie
 categories: api phantom phantom-method
 permalink: api/phantom/method/add-cookie.html
 ---

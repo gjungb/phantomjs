@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.onResourceRequested"
+title:  onResourceRequested
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-resource-requested.html
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.switchToChildFrame"
+title:  switchToChildFrame
 categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-child-frame.html
 ---

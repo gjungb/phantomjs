@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.sendEvent"
+title:  sendEvent
 categories: api webpage webpage-method
 permalink: api/webpage/method/send-event.html
 ---

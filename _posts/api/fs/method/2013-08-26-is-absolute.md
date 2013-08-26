@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fs.isAbsolute"
+title:  isAbsolute
 categories: api fs fs-method
 permalink: api/fs/method/is-absolute.html
 ---

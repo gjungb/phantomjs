@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.childFramesCount"
+title:  childFramesCount
 categories: api webpage webpage-method
 permalink: api/webpage/method/child-frames-count.html
 ---

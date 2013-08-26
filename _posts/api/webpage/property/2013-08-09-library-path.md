@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.libraryPath"
+title:  libraryPath
 categories: api webpage webpage-property
 permalink: api/webpage/property/library-path.html
 ---

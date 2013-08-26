@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "phantom.libraryPath"
+title:  libraryPath
 categories: api phantom phantom-property
 permalink: api/phantom/property/library-path.html
 ---

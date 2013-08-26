@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fs.isDirectory"
+title:  isDirectory
 categories: api fs fs-method
 permalink: api/fs/method/is-directory.html
 ---

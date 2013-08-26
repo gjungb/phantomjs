@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fs.changeWorkingDirectory"
+title:  changeWorkingDirectory
 categories: api fs fs-method
 permalink: api/fs/method/change-working-directory.html
 ---

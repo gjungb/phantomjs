@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.zoomFactor"
+title:  zoomFactor
 categories: api webpage webpage-property
 permalink: api/webpage/property/zoom-factor.html
 ---

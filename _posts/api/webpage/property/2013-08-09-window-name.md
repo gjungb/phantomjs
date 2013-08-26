@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.windowName"
+title:  windowName
 categories: api webpage webpage-property
 permalink: api/webpage/property/window-name.html
 ---

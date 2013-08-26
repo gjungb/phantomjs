@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.plainText"
+title:  plainText
 categories: api webpage webpage-property
 permalink: api/webpage/property/plain-text.html
 ---

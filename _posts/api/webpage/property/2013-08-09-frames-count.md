@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.framesCount"
+title:  framesCount
 categories: api webpage webpage-property
 permalink: api/webpage/property/frames-count.html
 ---

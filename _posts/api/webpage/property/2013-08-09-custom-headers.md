@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.customHeaders"
+title:  customHeaders
 categories: api webpage webpage-property
 permalink: api/webpage/property/custom-headers.html
 ---

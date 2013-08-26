@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.ownsPages"
+title:  ownsPages
 categories: api webpage webpage-property
 permalink: api/webpage/property/owns-pages.html
 ---

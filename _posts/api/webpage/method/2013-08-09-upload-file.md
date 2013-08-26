@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.uploadFile"
+title:  uploadFile
 categories: api webpage webpage-method
 permalink: api/webpage/method/upload-file.html
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.onResourceReceived"
+title:  onResourceReceived
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-resource-received.html
 ---

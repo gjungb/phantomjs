@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.includeJs"
+title:  includeJs
 categories: api webpage webpage-method
 permalink: api/webpage/method/include-js.html
 ---

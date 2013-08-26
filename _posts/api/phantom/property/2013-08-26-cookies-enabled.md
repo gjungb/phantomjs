@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "phantom.cookiesEnabled"
+title:  cookiesEnabled
 categories: api phantom phantom-property
 permalink: api/phantom/property/cookies-enabled.html
 ---

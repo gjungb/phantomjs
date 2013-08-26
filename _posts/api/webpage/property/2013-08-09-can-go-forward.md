@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.canGoForward"
+title:  canGoForward
 categories: api webpage webpage-property
 permalink: api/webpage/property/can-go-forward.html
 ---

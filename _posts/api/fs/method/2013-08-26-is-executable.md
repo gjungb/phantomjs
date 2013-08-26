@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fs.isExecutable"
+title:  isExecutable
 categories: api fs fs-method
 permalink: api/fs/method/is-executable.html
 ---

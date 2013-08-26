@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.evaluateAsync"
+title:  evaluateAsync
 categories: api webpage webpage-method
 permalink: api/webpage/method/evaluate-async.html
 ---

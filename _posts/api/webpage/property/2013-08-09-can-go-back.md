@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.canGoBack"
+title:  canGoBack
 categories: api webpage webpage-property
 permalink: api/webpage/property/can-go-back.html
 ---

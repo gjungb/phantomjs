@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.frameContent"
+title:  frameContent
 categories: api webpage webpage-property
 permalink: api/webpage/property/frame-content.html
 ---

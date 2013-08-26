@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.offlineStoragePath"
+title:  offlineStoragePath
 categories: api webpage webpage-property
 permalink: api/webpage/property/offline-storage-path.html
 ---

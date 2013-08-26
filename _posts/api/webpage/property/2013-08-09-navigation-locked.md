@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.navigationLocked"
+title:  navigationLocked
 categories: api webpage webpage-property
 permalink: api/webpage/property/navigation-locked.html
 ---

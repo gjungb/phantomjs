@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.setContent"
+title:  setContent
 categories: api webpage webpage-method
 permalink: api/webpage/method/set-content.html
 ---

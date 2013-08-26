@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.focusedFrameName"
+title:  focusedFrameName
 categories: api webpage webpage-property
 permalink: api/webpage/property/focused-frame-name.html
 ---

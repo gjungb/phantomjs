@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.deleteCookie"
+title:  deleteCookie
 categories: api webpage webpage-method
 permalink: api/webpage/method/delete-cookie.html
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.onClosing"
+title:  onClosing
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-closing.html
 ---

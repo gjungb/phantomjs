@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "phantom.scriptName"
+title:  scriptName
 categories: api phantom phantom-property
 permalink: api/phantom/property/scriptname.html
 ---

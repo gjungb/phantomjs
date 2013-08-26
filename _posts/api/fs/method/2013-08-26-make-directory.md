@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fs.makeDirectory"
+title:  makeDirectory
 categories: api fs fs-method
 permalink: api/fs/method/make-directory.html
 ---

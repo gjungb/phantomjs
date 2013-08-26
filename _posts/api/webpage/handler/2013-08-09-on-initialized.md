@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "page.onInitialized"
+title:  onInitialized
 categories: api webpage webpage-handler
 permalink: api/webpage/handler/on-initialized.html
 ---

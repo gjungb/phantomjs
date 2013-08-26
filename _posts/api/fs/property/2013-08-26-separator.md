@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fs.separator"
+title:  separator
 categories: api fs fs-property
 permalink: api/fs/property/separator.html
 ---
