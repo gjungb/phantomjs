@@ -27,12 +27,6 @@ var server = webserver.create();
 // @TODO: Finish $TITLE example.
 \`\`\`
 
-## Contribute
-
-Please help us [improve this document]({{ site.githubEdit }}/$OUTFILE).
-
-If you know anything that could be useful to other developers, we'd love to see it.
-
 " > $OUTFILE
 }
 

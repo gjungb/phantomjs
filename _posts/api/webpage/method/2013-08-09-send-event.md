@@ -49,10 +49,10 @@ var page = webPage.create();
 page.sendEvent('keypress', page.event.key.A, null, null, 0x02000000 | 0x08000000);
 ```
 
-## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/webpage/method/2013-08-09-send-event.md).
 
-If you know anything that could be useful to other developers, we'd love to see it.
+
+
+
 
 

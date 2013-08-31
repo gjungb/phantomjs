@@ -17,10 +17,10 @@ Delete any [Cookies](API-Reference#wiki-cookie) in the CookieJar with a '`name'`
 phantom.deleteCookie('Added-Cookie-Name');
 ```
 
-## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/phantom/method/2013-08-26-delete-cookie.md).
 
-If you know anything that could be useful to other developers, we'd love to see it.
+
+
+
 
 

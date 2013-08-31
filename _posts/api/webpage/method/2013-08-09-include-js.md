@@ -23,10 +23,10 @@ page.includeJs('http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js'
 });
 ```
 
-## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/webpage/method/2013-08-09-include-js.md).
 
-If you know anything that could be useful to other developers, we'd love to see it.
+
+
+
 
 

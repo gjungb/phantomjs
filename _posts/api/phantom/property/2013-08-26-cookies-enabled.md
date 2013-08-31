@@ -18,10 +18,10 @@ phantom.cookiesEnabled
 // @TODO: Finish phantom.cookiesEnabled example.
 ```
 
-## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/phantom/property/2013-08-26-cookies-enabled.md).
 
-If you know anything that could be useful to other developers, we'd love to see it.
+
+
+
 
 

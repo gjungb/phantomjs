@@ -21,10 +21,10 @@ phantom.addCookie({
 });
 ```
 
-## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/phantom/method/2013-08-26-add-cookie.md).
 
-If you know anything that could be useful to other developers, we'd love to see it.
+
+
+
 
 

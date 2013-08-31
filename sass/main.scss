@@ -18,3 +18,17 @@ color:#444;
   margin-top:2em;
   margin-bottom:2em;
 }
+
+.island{
+  padding:20px;
+  margin-bottom:20px;
+}
+  .island > :last-child{
+    margin-bottom:0; /* Remove the margin from the last child of a boxed off area so that we don’t end up with compounded margin/padding spacings. */
+  }
+
+.promo{
+  border:1px solid #ff8;
+  background-color:#ffc;
+  color:#333;
+}

@@ -20,10 +20,10 @@ var page = webPage.create();
 page.deleteCookie('Added-Cookie-Name');
 ```
 
-## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/webpage/method/2013-08-09-delete-cookie.md).
 
-If you know anything that could be useful to other developers, we'd love to see it.
+
+
+
 
 

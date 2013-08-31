@@ -24,10 +24,10 @@ page.onConsoleMessage = function(msg, lineNum, sourceId) {
 };
 ```
 
-## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/webpage/handler/2013-08-09-on-console-message.md).
 
-If you know anything that could be useful to other developers, we'd love to see it.
+
+
+
 
 

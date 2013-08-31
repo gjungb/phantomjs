@@ -23,10 +23,10 @@ page.zoomFactor = 0.25;
 page.render('capture.png');
 ```
 
-## Contribute
 
-Please help us [improve this document]({{ site.githubEdit }}/api/webpage/property/2013-08-09-zoom-factor.md).
 
-If you know anything that could be useful to other developers, we'd love to see it.
+
+
+
 
 
