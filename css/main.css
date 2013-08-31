@@ -525,15 +525,22 @@ body {
 .nav-group-end {
   margin-bottom: 0.5em; }
 
+.highlight,
+code {
+  font-family: 'Bitstream Vera Sans Mono','Courier', monospace;
+  background-color: #efefef; }
+
 .highlight {
-  background-color: #efefef;
-  padding: 1em 1em 0 1em;
   border: 1px solid #ddd;
+  padding: 1em 1em 0 1em;
   margin: 20px 0 20px 0;
   overflow: auto; }
 
 code {
-  font-family: 'Bitstream Vera Sans Mono','Courier', monospace; }
+  padding: 0.2em; }
+
+.highlight code {
+  padding: 0; }
 
 .highlight .c {
   color: #586e75; }
