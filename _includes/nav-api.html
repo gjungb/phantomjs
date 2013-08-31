@@ -18,6 +18,16 @@
   </li>
   {% endif %}
 
+  {% if page.title == 'API' or page.categories contains 'webpage' %}
+  <li class="nav-group">
+    <h2 class="nav-title nav-group-label">webpage</h2>
+    {% assign category_properties = site.categories.webpage-property %}
+    {% assign category_methods = site.categories.webpage-method %}
+    {% assign category_handlers = site.categories.webpage-handler %}
+    {% include nav-list.md %}
+  </li>
+  {% endif %}
+
   {% if page.title == 'API' or page.categories contains 'child_process' %}
   <li class="nav-group">
     <h2 class="nav-title nav-group-label">child_process</h2>
@@ -54,16 +64,6 @@
     {% assign category_properties = site.categories.system-property %}
     {% assign category_methods = site.categories.system-method %}
     {% assign category_handlers = site.categories.system-handler %}
-    {% include nav-list.md %}
-  </li>
-  {% endif %}
-
-  {% if page.title == 'API' or page.categories contains 'webpage' %}
-  <li class="nav-group">
-    <h2 class="nav-title nav-group-label">webpage</h2>
-    {% assign category_properties = site.categories.webpage-property %}
-    {% assign category_methods = site.categories.webpage-method %}
-    {% assign category_handlers = site.categories.webpage-handler %}
     {% include nav-list.md %}
   </li>
   {% endif %}
