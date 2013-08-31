@@ -5,6 +5,11 @@
   margin-bottom:1em;
 }
 
+.nav-group {
+  white-space: nowrap;
+  overflow: hidden;
+}
+
 .nav-item-label {
   border:1px solid #DDD;
   display: inline-block;
