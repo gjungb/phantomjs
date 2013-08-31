@@ -455,6 +455,18 @@ body {
   text-align: center;
   margin: 1.5em 0 0; }
 
+.shift {
+  display: table;
+  width: 100%; }
+
+/* Will display at the bottom. */
+.shift__down {
+  display: table-footer-group; }
+
+/* Will display at the top. */
+.shife__up {
+  display: table-header-group; }
+
 .post {
   line-height: 1.5em; }
   .post h1, .post h2, .post h3, .post h4 {
@@ -834,3 +846,6 @@ code {
   border: 1px solid #ff8;
   background-color: #ffc;
   color: #333; }
+
+.improve {
+  text-align: center; }

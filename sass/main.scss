@@ -10,6 +10,7 @@ color:#444;
 @import '_masthead.scss';
 @import '_community.scss';
 @import 'home/_index.scss';
+@import '_shift.scss';
 @import '_posts.scss';
 @import '_nav-list.scss';
 @import '_solarized-light.scss';
@@ -31,4 +32,9 @@ color:#444;
   border:1px solid #ff8;
   background-color:#ffc;
   color:#333;
+}
+
+// specific improve this post promo
+.improve {
+  text-align: center;
 }
