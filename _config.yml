@@ -1,7 +1,7 @@
 name: PhantomJS
 markdown: redcarpet
 redcarpet:
-  extensions: ["tables", "with_toc_data"]
+  extensions: ["tables"]
 pygments: true
 githubEdit: https://github.com/JamieMason/phantomjs/blob/gh-pages/_posts
 
