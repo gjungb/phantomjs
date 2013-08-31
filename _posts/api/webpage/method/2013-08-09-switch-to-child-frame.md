@@ -5,6 +5,10 @@ categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-child-frame.html
 ---
 
+`switchToChildFrame(frameName)` or `switchToChildFrame(framePosition)`
+
+Deprecated.
+
 ## Examples
 
 ```javascript

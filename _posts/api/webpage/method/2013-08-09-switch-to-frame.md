@@ -5,6 +5,8 @@ categories: api webpage webpage-method
 permalink: api/webpage/method/switch-to-frame.html
 ---
 
+`switchToFrame(frameName)` or `switchToFrame(framePosition)`
+
 ## Examples
 
 ```javascript

@@ -5,6 +5,8 @@ categories: api webpage webpage-method
 permalink: api/webpage/method/current-frame-name.html
 ---
 
+Deprecated.
+
 ## Examples
 
 ```javascript

@@ -5,6 +5,12 @@ categories: api webpage webpage-method
 permalink: api/webpage/method/add-cookie.html
 ---
 
+`addCookie(Cookie)` {boolean}
+
+**Introduced:** PhantomJS 1.7
+
+Add a Cookie to the page. If the domains do not match, the Cookie will be ignored/rejected. Returns `true` if successfully added, otherwise `false`.
+
 ## Examples
 
 ```javascript
