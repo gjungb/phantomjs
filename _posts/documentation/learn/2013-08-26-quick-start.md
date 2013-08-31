@@ -7,7 +7,7 @@ permalink: quick-start.html
 
 This instruction assumes that PhantomJS is installed and its executable is placed somewhere in the PATH.
 
-The code shown here is also available in [[various examples|Examples]] included with PhantomJS. You are also recommended to explore the use of PhantomJS for [[page automation|Page Automation]], [[network monitoring|Network Monitoring]], [[screen capture|Screen Capture]], and [[headless testing|Headless Testing]].
+The code shown here is also available in [various examples]({{ site.url }}/examples/) included with PhantomJS. You are also recommended to explore the use of PhantomJS for [page automation]({{ site.url }}/page-automation.html), [network monitoring]({{ site.url }}/network-monitoring.html), [screen capture]({{ site.url }}/screen-capture.html), and [headless testing]({{ site.url }}/headless-testing.html).
 
 ## Hello, World!
 
@@ -50,7 +50,7 @@ page.open('http://example.com', function() {
 });
 ```
 
-Because of its rendering features, PhantomJS can be used to [[capture web pages|Screen Capture]], essentially taking a screenshot of the contents.
+Because of its rendering features, PhantomJS can be used to [capture web pages]({{ site.url }}/screen-capture.html), essentially taking a screenshot of the contents.
 
 The following `loadspeed.js` script loads a specified URL (do not forget the http protocol) and measures the time it takes to load it.
 
@@ -118,7 +118,7 @@ page.open(url, function(status) {
 });
 ```
 
-Since the script is executed as if it is running on a web browser, standard DOM scripting and CSS selectors work just fine. It makes PhantomJS suitable to carry out various [[page automation tasks|Page Automation]].
+Since the script is executed as if it is running on a web browser, standard DOM scripting and CSS selectors work just fine. It makes PhantomJS suitable to carry out various [page automation tasks]({{ site.url }}/page-automation.html).
 
 ## Network Requests and Responses
 
@@ -135,4 +135,4 @@ page.onResourceReceived = function(response) {
 page.open(url);
 ```
 
-For more info on how to utilize this features for HAR export as well as YSlow-based performance analysis, see the page on [[network monitoring|Network Monitoring]].
+For more info on how to utilize this features for HAR export as well as YSlow-based performance analysis, see the page on [network monitoring]({{ site.url }}/network-monitoring.html).
