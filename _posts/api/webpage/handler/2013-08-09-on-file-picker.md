@@ -10,13 +10,12 @@ permalink: api/webpage/handler/on-file-picker.html
 ```javascript
 var webPage = require('webpage');
 var page = webPage.create();
-// @TODO: Finish page.onFilePicker example.
+var system = require('system');
+
+page.onFilePicker = function(oldFile) {
+  if (system.os.name === 'windows') {
+    return 'C:\\Windows\\System32\\drivers\\etc\\hosts';
+  }
+  return '/etc/hosts';
+};
 ```
-
-
-
-
-
-
-
-
