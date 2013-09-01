@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Command-line"
-categories: api
+title: Command Line Interface
+categories: docs docs-learn
 permalink: api/command-line.html
 ---
 
