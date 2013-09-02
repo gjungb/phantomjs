@@ -5,11 +5,11 @@ categories: api phantom phantom-method
 permalink: api/phantom/method/add-cookie.html
 ---
 
-`addCookie([Cookie](#cookie))` {Boolean}
+`addCookie(Object)` {Boolean}
 
 **Introduced:** PhantomJS 1.7
 
-Add a [Cookie](#cookie) to the CookieJar.  Returns `true` if successfully added, otherwise `false`. See [`phantom.cookies`](#phantom-cookies) for more information on the CookieJar.
+Add a Cookie to the CookieJar.  Returns `true` if successfully added, otherwise `false`.
 
 ## Examples
 

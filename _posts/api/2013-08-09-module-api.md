@@ -7,13 +7,13 @@ permalink: api/module-api.html
 
 The Module API is modeled after [CommonJS Modules](http://wiki.commonjs.org/wiki/Modules/1.1.1) is available. Up through PhantomJS 1.6, the only supported modules that were built in:
 
-* [webpage](webpage)
-* [system](system)
-* [fs](fs)
-* [webserver](webserver)
-* [child_process](child-process)
+* [webpage]({{ site.url }}/webpage)
+* [system]({{ site.url }}/system)
+* [fs]({{ site.url }}/fs)
+* [webserver]({{ site.url }}/webserver)
+* [child_process]({{ site.url }}/child_process)
 
-As of PhantomJS 1.7, however, users can reference their own modules from the file system using [`require`](#require) as well.
+As of PhantomJS 1.7, however, users can reference their own modules from the file system using `require` as well.
 
 ## Function: `require`
 
