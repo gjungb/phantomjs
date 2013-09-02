@@ -9,7 +9,7 @@ permalink: api/phantom/method/delete-cookie.html
 
 **Introduced:** PhantomJS 1.7
 
-Delete any [Cookies](API-Reference#wiki-cookie) in the CookieJar with a '`name'` property matching `cookieName`. Returns `true` if successfully deleted, otherwise `false`. See [`phantom.cookies`](#phantom-cookies) for more information on the CookieJar.
+Delete any [Cookies](API-Reference#wiki-cookie) in the CookieJar with a '`name'` property matching `cookieName`. Returns `true` if successfully deleted, otherwise `false`.
 
 ## Examples
 

@@ -13,7 +13,7 @@ The Module API is modeled after [CommonJS Modules](http://wiki.commonjs.org/wiki
 * [webserver](webserver)
 * [child_process](child-process)
 
-As of PhantomJS 1.7, however, users can reference their own modules from the file system using [`require`](#require) as well.
+As of PhantomJS 1.7, however, users can reference their own modules from the file system using `require` as well.
 
 ## Function: `require`
 

@@ -9,7 +9,7 @@ permalink: api/phantom/method/clear-cookies.html
 
 **Introduced:** PhantomJS 1.7
 
-Delete all [Cookies](#cookie) in the CookieJar. See [`phantom.cookies`](#phantom-cookies) for more information on the CookieJar.
+Delete all [Cookies](#cookie) in the CookieJar.
 
 ## Examples
 
